@@ -7,4 +7,4 @@ bot = commands.Bot(command_prefix='>')
 async def on_ready():
     print(">> bot is online <<")
 
-bot.run("MTAxNTA5MjczOTAyNjcxODcyMA.GbzzwN.sXbfMWPqpW-m36KGVWaXumGATfLuOQfNYPYQ5s")
+bot.run("MTAxNTA5MjczOTAyNjcxODcyMA.GCedFU.-tvjKlA_dG3H58WgGpbNUdmrY5MsSL3c96dXrQ")
